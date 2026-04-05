@@ -36,7 +36,7 @@ this is idea from Ashish Sir :
 
 <!-- YT LIST START -->
 
-- My Youtube Videos ::   https://www.youtube.com/channel/UCuL0puNSYNzoZQH_evrJaqw 
+- My Youtube Videos ::   [https://www.yo11utube.com/@FluxinFuse](https://www.youtube.com/@FluxinFuse)
 - My Session on Cloud Computing in BlueOceanTech :: https://youtu.be/Hwm-Zerpihg
 
 # Blog posts 
